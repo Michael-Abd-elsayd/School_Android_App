@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ebtda2y</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_year_list">YearList</string>
+    <string name="title_activity_edit">Edit</string>
+    <string name="title_activity_add">Add</string>
+
+    <string name="msg_content">هل تريد حذف هذا الطالب ؟</string>
+    <string name="msg_yes">نعم</string>
+    <string name="msg_no">لا</string>
+
+
+</resources>
